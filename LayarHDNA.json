@@ -10,14 +10,14 @@
         }
       },
       "icon": {
-                "url": "https://github.com/Alexander197107/layarHDNA/blob/master/Dino.jpg"
+                "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/example_layar.png"
       }, 
       "id": 1, 
       "text": {
         "description": "Algo mas", 
         "title": "This is a basic POI"
       },
-      "imagenURL": "https:\/\/raw.githubusercontent.com\/Alexander197107\/layarHDNA\/master\/Dino.jpg"
+      "imagenURL": "https:\/\/github.com\/Alexander197107\/layarHDNA\/blob\/master\/Dino.jpg"
     }, 
     {
       "anchor": {
