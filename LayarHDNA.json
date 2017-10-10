@@ -4,7 +4,7 @@
    "hotspots": [
      {
         "anchor": { "geolocation": { "lat": -8.105996, "lon": -79.026872 } },
-        "icon": { "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/example_layar.png", "tipo": 2  },
+        "icon": { "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/example_layar.png", "type": 2  },
         "id": 1,
         "text": {
            "description": "Algo mas 1",
@@ -13,7 +13,7 @@
      },
      {
         "anchor": { "geolocation": { "lat": -8.105918, "lon": -79.026872 } },
-        "icon": { "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/Dino.jpg", "tipo": 2  },
+        "icon": { "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/Dino.jpg", "type": 2  },
         "id": 2,
         "text": {
            "description": "Description line 1\nDescription line 2\nand Description line 3",
@@ -22,7 +22,7 @@
      },
      {
         "anchor": { "geolocation": { "lat": -8.105939, "lon": -79.026850 } },
-        "icon": { "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/Dino.jpg", "tipo": 2  },
+        "icon": { "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/Dino.jpg", "type": 2  },
         "id": 3,
         "text": {
            "description": "Description line 1\nDescription line 2\nand Description line 3",
