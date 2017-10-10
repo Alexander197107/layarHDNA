@@ -19,7 +19,6 @@
            "description": "Description line 1\nDescription line 2\nand Description line 3",
            "title": "This POI has a custom icon and description"
         },
-        "imagenURL": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/example_layar.png"
      },
      {
         "anchor": { "geolocation": { "lat": -8.105939, "lon": -79.026850 } },
@@ -29,7 +28,6 @@
            "description": "Description line 1\nDescription line 2\nand Description line 3",
            "title": "This POI has a custom icon and description"
         },
-        "imagenURL": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/example_layar.png"
      }
    ],
    "layer": "hdnaardd37"
