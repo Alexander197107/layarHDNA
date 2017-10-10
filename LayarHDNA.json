@@ -1,0 +1,40 @@
+{
+  "errorCode": 0, 
+  "errorString": "ok", 
+  "hotspots": [
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": -8.105996,
+          "lon": -79.026872
+        }
+      },
+      "icon": {
+                "url": "https://raw.githubusercontent.com/Alexander197107/layar2/master/example_layar.png"
+      }, 
+      "id": 1, 
+      "text": {
+        "description": "Algo mas", 
+        "title": "This is a basic POI"
+      },
+      "imagenURL": "https://raw.githubusercontent.com/Alexander197107/layar2/293f2747458e28c5fb3371dc1abcaff944129501/Dino.jpg"
+    }, 
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": -8.105918, 
+          "lon": -79.026872
+        }
+      }, 
+      "icon": {
+                "url": "https://raw.githubusercontent.com/Alexander197107/layar2/master/example_layar.png"
+      }, 
+      "id": 2, 
+      "text": {
+        "description": "Description line 1\nDescription line 2\nand Description line 3", 
+        "title": "This POI has a custom icon and description"
+      }
+    }
+  ], 
+  "layer": "layar24fuf"
+}
