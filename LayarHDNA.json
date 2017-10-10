@@ -34,6 +34,22 @@
         "description": "Description line 1\nDescription line 2\nand Description line 3", 
         "title": "This POI has a custom icon and description"
       }
+    },
+    {
+      "anchor": {
+        "geolocation": {
+          "lat": -8.105939, 
+          "lon": -79.026850
+        }
+      }, 
+      "icon": {
+                "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/Dino.jpg"
+      }, 
+      "id": 2, 
+      "text": {
+        "description": "Description line 1\nDescription line 2\nand Description line 3", 
+        "title": "This POI has a custom icon and description"
+      }
     }
   ], 
   "layer": "hdnaardd37"
