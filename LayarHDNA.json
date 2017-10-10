@@ -10,7 +10,6 @@
            "description": "Algo mas 1",
            "title": "This is a basic POI"
         },
-        "imagenURL": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/example_layar.png"
      },
      {
         "anchor": { "geolocation": { "lat": -8.105918, "lon": -79.026872 } },
