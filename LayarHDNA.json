@@ -9,7 +9,7 @@
         "text": {
            "description": "Algo mas 1",
            "title": "This is a basic POI"
-        },
+        }
      },
      {
         "anchor": { "geolocation": { "lat": -8.105918, "lon": -79.026872 } },
@@ -18,7 +18,7 @@
         "text": {
            "description": "Description line 1\nDescription line 2\nand Description line 3",
            "title": "This POI has a custom icon and description"
-        },
+        }
      },
      {
         "anchor": { "geolocation": { "lat": -8.105939, "lon": -79.026850 } },
@@ -27,7 +27,7 @@
         "text": {
            "description": "Description line 1\nDescription line 2\nand Description line 3",
            "title": "This POI has a custom icon and description"
-        },
+        }
      }
    ],
    "layer": "hdnaardd37"
