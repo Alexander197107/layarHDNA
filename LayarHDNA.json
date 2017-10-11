@@ -39,9 +39,8 @@
         "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/example_layar2.png"
       }, 
       "id": 2, 
-      "text": {
-        "title": "This POI has an action"
-      }
+      "text": {"title": "This POI has an action"},
+      "imageURL": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/Dino.png"
     },
     {
       "actions": [
