@@ -16,7 +16,7 @@
           "lon": -79.026795
         }
       },
-      "icon": {"url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/Dino.png", "type":1 }, 
+      "icon": {"https://github.com/Alexander197107/layarHDNA/blob/master/Dino.png", "type":2 }, 
       "id": 1, 
       "text": {"title": "This POI has an action"},
       "imageURL": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/Dino.png"
