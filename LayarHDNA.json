@@ -59,7 +59,7 @@
       "anchor": {
         "geolocation": {
           "lat": -8.1059180, 
-          "lon": -79.020685,
+          "lon": -79.026872,
           "alt": 1
         }
       },
@@ -67,6 +67,29 @@
         "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/3dcebd37c6c4cf0fd67c4805fa48b64c82c973f7/Dino.jpg"
       }, 
       "id": 3, 
+      "text": {
+        "title": "This POI has an action"
+      }
+    },
+    {
+      "actions": [
+        {
+          "contentType": "text/html", 
+          "label": "Visit our hotspots documentation!", 
+          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+        }
+      ], 
+      "anchor": {
+        "geolocation": {
+          "lat": -8.105996, 
+          "lon": -79.026825,
+          "alt": 1
+        }
+      },
+       "icon": {
+        "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/3dcebd37c6c4cf0fd67c4805fa48b64c82c973f7/Dino.jpg"
+      }, 
+      "id": 4, 
       "text": {
         "title": "This POI has an action"
       }
