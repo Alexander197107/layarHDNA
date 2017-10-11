@@ -13,8 +13,7 @@
       "anchor": {
         "geolocation": {
           "lat": -8.1060528, 
-          "lon": -79.026795,
-          "alt": 1
+          "lon": -79.026795
         }
       },
        "icon": {
@@ -36,8 +35,7 @@
       "anchor": {
         "geolocation": {
           "lat": -8.105939, 
-          "lon": -79.02685,
-          "alt": 1
+          "lon": -79.02685
         }
       },
        "icon": {
@@ -59,8 +57,7 @@
       "anchor": {
         "geolocation": {
           "lat": -8.1059180, 
-          "lon": -79.026872,
-          "alt": 1
+          "lon": -79.026872
         }
       },
        "icon": {
@@ -82,8 +79,7 @@
       "anchor": {
         "geolocation": {
           "lat": -8.105996, 
-          "lon": -79.026825,
-          "alt": 1
+          "lon": -79.026825
         }
       },
        "icon": {
