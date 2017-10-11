@@ -20,6 +20,52 @@
        "icon": {
         "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/3dcebd37c6c4cf0fd67c4805fa48b64c82c973f7/Dino.jpg"
       }, 
+      "id": 1, 
+      "text": {
+        "title": "This POI has an action"
+      }
+    },
+    {
+      "actions": [
+        {
+          "contentType": "text/html", 
+          "label": "Visit our hotspots documentation!", 
+          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+        }
+      ], 
+      "anchor": {
+        "geolocation": {
+          "lat": -8.105939, 
+          "lon": -79.02685,
+          "alt": 1
+        }
+      },
+       "icon": {
+        "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/3dcebd37c6c4cf0fd67c4805fa48b64c82c973f7/Dino.jpg"
+      }, 
+      "id": 2, 
+      "text": {
+        "title": "This POI has an action"
+      }
+    },
+    {
+      "actions": [
+        {
+          "contentType": "text/html", 
+          "label": "Visit our hotspots documentation!", 
+          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+        }
+      ], 
+      "anchor": {
+        "geolocation": {
+          "lat": -8.1059180, 
+          "lon": -79.020685,
+          "alt": 1
+        }
+      },
+       "icon": {
+        "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/3dcebd37c6c4cf0fd67c4805fa48b64c82c973f7/Dino.jpg"
+      }, 
       "id": 3, 
       "text": {
         "title": "This POI has an action"
