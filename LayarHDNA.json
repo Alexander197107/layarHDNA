@@ -86,6 +86,28 @@
       "text": {
         "title": "This POI has an action"
       }
+    },
+    {
+      "actions": [
+        {
+          "contentType": "text/html", 
+          "label": "Visit our hotspots documentation!", 
+          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
+        }
+      ], 
+      "anchor": {
+        "geolocation": {
+          "lat": -8.106021, 
+          "lon": -79.02682
+        }
+      },
+       "icon": {
+        "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/example_layar2.png"
+      }, 
+      "id": 4, 
+      "text": {
+        "title": "This POI has an action"
+      }
     }
   ], 
   "layer": "hdnaelectriclp5u"
