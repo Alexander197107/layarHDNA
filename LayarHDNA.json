@@ -16,7 +16,7 @@
           "lon": -79.026795
         }
       },
-      "icon": {"url":"https://alexander197107.github.io/layarHDNA/layar_overlay.png"}, 
+      "icon": {"url": "https:\/\/alexander197107.github.io\/layarHDNA\/layar_overlay.png" }, 
       "id": 1, 
       "text": {"title": "This POI has an action"},
       "imageURL": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/Dino.png"
@@ -35,10 +35,7 @@
           "lon": -79.02685
         }
       },
-       "icon": {
-        "url": "https:\/\/alexander197107.github.io\/layarHDNA\/layar_overlay.png",
-         "type" : 2
-      }, 
+      "icon": {"url": "https:\/\/alexander197107.github.io\/layarHDNA\/layar_overlay.png" }, 
       "id": 2, 
       "text": {"title": "This POI has an action"},
       "imageURL": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/Dino.png"
