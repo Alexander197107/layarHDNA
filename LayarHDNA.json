@@ -3,13 +3,6 @@
   "errorString": "ok", 
   "hotspots": [
     {
-      "actions": [
-        {
-          "contentType": "text/html", 
-          "label": "Visit our hotspots documentation!", 
-          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
-        }
-      ], 
       "anchor": {
         "geolocation": {
           "lat": -8.1060528, 
@@ -18,17 +11,9 @@
       },
       "icon": {"url": "https:\/\/alexander197107.github.io\/layarHDNA\/layar_overlay.png" }, 
       "id": 1, 
-      "text": {"title": "This POI has an action"},
-      "imageURL": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/Dino.png"
+      "text": {"title": "This POI has an action 1"}
     },
     {
-      "actions": [
-        {
-          "contentType": "text/html", 
-          "label": "Visit our hotspots documentation!", 
-          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
-        }
-      ], 
       "anchor": {
         "geolocation": {
           "lat": -8.105939, 
@@ -37,52 +22,29 @@
       },
       "icon": {"url": "https:\/\/alexander197107.github.io\/layarHDNA\/layar_overlay.png" }, 
       "id": 2, 
-      "text": {"title": "This POI has an action"},
-      "imageURL": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/Dino.png"
+      "text": {"title": "This POI has an action 2"},
     },
     {
-      "actions": [
-        {
-          "contentType": "text/html", 
-          "label": "Visit our hotspots documentation!", 
-          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
-        }
-      ], 
       "anchor": {
         "geolocation": {
           "lat": -8.1059180, 
           "lon": -79.026872
         }
       },
-       "icon": {
-        "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/example_layar2.png"
-      }, 
+      "icon": {"url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/example_layar2.png"}, 
       "id": 3, 
-      "text": {
-        "title": "This POI has an action"
-      }
+      "text": {"title": "This POI has an action 3"}
     },
     {
-      "actions": [
-        {
-          "contentType": "text/html", 
-          "label": "Visit our hotspots documentation!", 
-          "uri": "https://www.layar.com/documentation/browser/api/getpois-response/hotspots/"
-        }
-      ], 
       "anchor": {
         "geolocation": {
           "lat": -8.105996, 
           "lon": -79.026825
         }
       },
-       "icon": {
-        "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/example_layar2.png"
-      }, 
+      "icon": {"url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/example_layar2.png"}, 
       "id": 4, 
-      "text": {
-        "title": "This POI has an action"
-      }
+      "text": {"title": "This POI has an action 4"}
     },
     {
       "actions": [
@@ -102,9 +64,7 @@
         "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/example_layar2.png"
       }, 
       "id": 5, 
-      "text": {
-        "title": "This POI has an action"
-      }
+      "text": {"title": "This POI has an action 5"}
     },
     {
       "actions": [
@@ -120,13 +80,8 @@
           "lon": -79.040664
         }
       },
-       "icon": {
-        "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/example_layar2.png"
-      }, 
       "id": 6, 
-      "text": {
-        "title": "This POI has an action"
-      }
+      "text": {"title": "This POI has an action 6"}
     }, 
     {
       "actions": [
@@ -146,9 +101,7 @@
         "url": "https://raw.githubusercontent.com/Alexander197107/layarHDNA/master/example_layar2.png"
       }, 
       "id": 7, 
-      "text": {
-        "title": "This POI has an action"
-      }
+      "text": {"title": "This POI has an action 7"}
     },
      {
       "actions": [
@@ -167,7 +120,7 @@
       "icon": {"url":"https://alexander197107.github.io/layarHDNA/Dino.png"}, 
       "id": 8, 
       "text": {
-        "title": "This POI has an action"
+        "title": "This POI has an action 8"
       }
     }
   ], 
